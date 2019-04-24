@@ -6,8 +6,8 @@
 
 ## Setup
  - execute yarn or npm install.
- - Create a postgres database and set it's name on ormconfig.json.
- - Set host, port, username and password of that database ormconfig.json.
+ - Create a postgres database and set it's name at ormconfig.json.
+ - Set host, port, username and password of that database at ormconfig.json.
 
 ## Execution
 - execute yarn start
